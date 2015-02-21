@@ -2,7 +2,7 @@
     "name": "node-cep",
     "description": "Web service that exposes the search page of the Post Office ZIP code of Brazil as an API.",
     "main": "app.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "private": true,
     "author": "Pedro Rogério",
     "homepage": "",
