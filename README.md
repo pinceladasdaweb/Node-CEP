@@ -4,9 +4,9 @@ Web service that exposes the search page of the Post Office ZIP code of Brazil a
 #### Dependencies:
 
 - Node.js 0.10.x
-- Express 4.11.2
+- Express 4.12.3
 - Request 2.53.0
-- Cheerio 0.18.0
+- Cheerio 0.19.0
 
 ### Route Schema:
 Description | Method | URL | Params
